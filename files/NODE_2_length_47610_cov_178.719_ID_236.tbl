@@ -1,0 +1,359 @@
+>Feature NODE_2_length_47610_cov_178.719_ID_236
+264	25	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.1
+725	261	CDS
+			product	Phage lysin, 1,4-beta-N-acetylmuramidase or lysozyme #Protein S in phage lambda
+			transl_table	11
+			EC_number	3.2.1.17
+			db_xref	SEED:fig|6666666.269875.peg.2
+993	715	CDS
+			product	Phage lysozyme
+			transl_table	11
+			EC_number	3.2.1.17
+			db_xref	SEED:fig|6666666.269875.peg.3
+1097	1375	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.4
+1378	1521	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.5
+1530	1799	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.6
+1796	2095	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.7
+3052	2150	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.8
+4099	3143	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.9
+5483	4080	CDS
+			product	Phage portal (connector) protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.10
+5797	5531	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.11
+5991	5797	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.12
+6162	6001	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.13
+6380	6162	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.14
+6568	6380	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.15
+6735	6568	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.16
+6945	6739	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.17
+7119	7715	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.18
+9172	7748	CDS
+			product	Phage terminase, large subunit
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.19
+9308	9162	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.20
+9720	9301	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.21
+10041	9868	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.22
+10207	10028	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.23
+10316	10200	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.24
+10560	10309	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.25
+11016	10624	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.26
+11246	11013	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.27
+11465	11283	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.28
+11591	11469	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.29
+11840	11646	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.30
+12471	12689	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.31
+12689	14242	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.32
+14239	14430	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.33
+14440	14745	CDS
+			product	Phage protein (ACLAME 31)
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.34
+15727	14774	CDS
+			product	DNA primase/helicase, phage-associated
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.35
+15803	17728	CDS
+			product	DNA helicase, phage-associated
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.36
+17730	18155	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.37
+18193	18465	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.38
+18462	19400	CDS
+			product	Exodeoxyribonuclease VIII
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.39
+19418	20458	CDS
+			product	Phage-associated recombinase
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.40
+20462	20944	CDS
+			product	Single stranded DNA-binding protein, phage-associated
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.41
+23267	21240	CDS
+			product	Phage tail fiber protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.42
+25769	23307	CDS
+			product	38 kDa minor structural protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.43
+26635	26165	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.44
+27108	26635	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.45
+29450	27108	CDS
+			product	Phage tail tape measure protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.46
+30156	29443	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.47
+30270	30563	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.48
+30596	30790	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.49
+30787	30930	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.50
+30927	31229	CDS
+			product	Phage NinX
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.51
+32181	31465	CDS
+			product	Phage fibritin (wac) protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.52
+33251	32877	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.53
+33646	33248	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.54
+33987	33646	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.55
+34340	33984	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.56
+34641	34357	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.57
+35114	34674	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.58
+35233	35114	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.59
+35351	35974	CDS
+			product	Phage EaC protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.60
+35978	36169	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.61
+36171	36452	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.62
+36449	37261	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.63
+37258	37503	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.64
+37500	37673	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.65
+37673	38212	CDS
+			product	DNA polymerase III beta subunit
+			transl_table	11
+			EC_number	2.7.7.7
+			db_xref	SEED:fig|6666666.269875.peg.66
+			db_xref	GO:0003887
+38212	38571	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.67
+39417	38599	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.68
+39655	39458	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.69
+39995	39648	CDS
+			product	Phage protein (ACLAME 769)
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.70
+41108	40038	CDS
+			product	Unclassified head protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.71
+41578	41111	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.72
+42864	41578	CDS
+			product	Unclassified head protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.73
+43204	43058	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.74
+43637	43326	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.75
+44014	43634	CDS
+			product	FIG00642860: hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.76
+44628	44140	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.77
+44863	44618	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.78
+45174	44860	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.79
+45365	45171	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.80
+45579	45376	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.81
+45679	45873	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.82
+45900	46322	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.83
+46322	46630	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.84
+46756	47001	CDS
+			product	hypothetical protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.85
+47524	47036	CDS
+			product	Phage endopeptidase Rz
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.86
+47609	47508	CDS
+			product	Phage protein
+			transl_table	11
+			db_xref	SEED:fig|6666666.269875.peg.87
+32772	32845	tRNA
+			product	tRNA-Met-CAT
+			db_xref	SEED:fig|6666666.269875.rna.1
+32772	32845	tRNA
+			product	tRNA-Met-CAT
+			db_xref	SEED:fig|6666666.269875.rna.1
