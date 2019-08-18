@@ -1,4 +1,4 @@
-# Create BioSample (https://submit.ncbi.nlm.nih.gov/subs/biosample/)
+[Create BioSample] (https://submit.ncbi.nlm.nih.gov/subs/biosample/)
 
 1. Click on ’New Submission’
 
