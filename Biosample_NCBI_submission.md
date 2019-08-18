@@ -1,10 +1,13 @@
-[Create BioSample] (https://submit.ncbi.nlm.nih.gov/subs/biosample/)
+# [Create BioSample](https://submit.ncbi.nlm.nih.gov/subs/biosample/)
 
-1. Click on ’New Submission’
+1. Click on **New Submission**
 
 2. Add/update information of submitter.
 
-3. In ‘General Information’, select a specified release date (otherwise, it can be released immediately after submission).
+3. In **General Information**, select a specified release date (otherwise, it can be released immediately after submission).
+
+
+
 
 4. In the case of ‘Single BioSample’:
 
@@ -18,7 +21,7 @@
 
   4.5 Click Continue on Title and Comments.
   
-	4.6 Finally, review information and submit.
+4.6 Finally, review information and submit.
 
 5. In the case of ‘Batch Submission’:
 	5.1 Select Batch/Multiple BioSamples.
