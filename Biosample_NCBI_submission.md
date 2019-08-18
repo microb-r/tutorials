@@ -12,9 +12,9 @@ BioSamples can be created [here](https://submit.ncbi.nlm.nih.gov/subs/biosample/
 
 4. **Single BioSample:**
 
-⋅⋅4.1 Select **Single BioSample** and **Continue**.
+  4.1 Select **Single BioSample** and **Continue**.
 
-⋅⋅4.2 Select **Sample Type**. In the case of viruses, select **Virus Sample**.**Continue**.
+  4.2 Select **Sample Type**. In the case of viruses, select **Virus Sample**.**Continue**.
   
   <img width="707" alt="Screen Shot 2019-08-11 at 11 04 43 PM" src="https://user-images.githubusercontent.com/48694025/63230074-f985c880-c1d5-11e9-8535-99784a352a35.png">
 
