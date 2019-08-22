@@ -46,6 +46,6 @@ BioSamples can be created [here](https://submit.ncbi.nlm.nih.gov/subs/biosample/
   
   <img width="708" alt="Screen Shot 2019-08-11 at 11 20 28 PM" src="https://user-images.githubusercontent.com/48694025/63230236-e116ad80-c1d7-11e9-842f-d1db3a4a26cf.png">
   
-   5.4 Load .txt file and Continue (ignore Warning about Sample Name and click **Continue** again).
+   5.4 Load ```.txt``` file and Continue (ignore Warning about Sample Name and click **Continue** again).
 
    5.5 Finally, review information and submit.
