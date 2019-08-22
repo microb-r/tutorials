@@ -42,7 +42,7 @@ Submit genomes [here](https://submit.ncbi.nlm.nih.gov/subs/genome/)
 
 <img width="1436" alt="Screen Shot 2019-08-21 at 10 52 38 PM" src="https://user-images.githubusercontent.com/48694025/63482347-8f378700-c466-11e9-874e-b67d243dc380.png">
 
-  3.0 Finally, review and submit genome.
+  2.10 Finally, review and submit genome.
 
 3. In the case of **Batch Submission**:
 
@@ -61,7 +61,7 @@ Submit genomes [here](https://submit.ncbi.nlm.nih.gov/subs/genome/)
 
 <img width="710" alt="Screen Shot 2019-08-12 at 10 06 54 PM" src="https://user-images.githubusercontent.com/48694025/63482627-8f845200-c467-11e9-8eee-1f987e31b296.png">
 
-  3.6 Download [template excel](https://github.com/microb-r/tutorials/blob/master/files/GenomeBatch_Submission_Example.xlsx) and fill with genome’s information. Save tab as ```.txt``` file and uploada.
+  3.6 Download [template excel](https://github.com/microb-r/tutorials/blob/master/files/GenomeBatch_Submission_Example.xlsx) and fill in with genome’s information. Save tab as ```.txt``` file and upload.
 
 <img width="812" alt="Screen Shot 2019-08-13 at 9 17 54 PM" src="https://user-images.githubusercontent.com/48694025/63482652-a3c84f00-c467-11e9-97c2-94f1f8589ccc.png">
 
