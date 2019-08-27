@@ -22,7 +22,7 @@ Submit genomes [here](https://submit.ncbi.nlm.nih.gov/subs/genome/)
 
 <img width="1432" alt="Screen Shot 2019-08-21 at 10 39 07 PM" src="https://user-images.githubusercontent.com/48694025/63481798-b9884500-c464-11e9-8e96-513895bc47b5.png">
 
-  2.5 Fill in **Genome Info** section according to image below, including **Submission title**. Continue.
+  2.5 Fill in **Genome Info** section according to image below, including **Submission title**. **Continue**.
   
 <img width="1409" alt="Screen Shot 2019-08-18 at 7 35 51 PM" src="https://user-images.githubusercontent.com/48694025/63231841-72454e80-c1ef-11e9-8bbf-c7f942c73968.png">
   
@@ -38,7 +38,7 @@ Submit genomes [here](https://submit.ncbi.nlm.nih.gov/subs/genome/)
 
 <img width="1434" alt="Screen Shot 2019-08-21 at 10 49 17 PM" src="https://user-images.githubusercontent.com/48694025/63482173-ed179f00-c465-11e9-9416-3c488e597d07.png">
 
-  2.9 Complete **Assignment** section with information about chromosome information. If there are multiple assembled sequences, select *No* in both questions. 
+  2.9 Complete **Assignment** section with chromosome's information. If there are multiple assembled sequences, select *No* in both questions. 
 
 <img width="1436" alt="Screen Shot 2019-08-21 at 10 52 38 PM" src="https://user-images.githubusercontent.com/48694025/63482347-8f378700-c466-11e9-874e-b67d243dc380.png">
 
