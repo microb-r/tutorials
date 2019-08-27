@@ -6,7 +6,7 @@ The [SRA] (https://submit.ncbi.nlm.nih.gov/subs/sra/) accepts genetic data and t
 
 2. Update **Submitter** information.
 
-3. Add BioProject number (previously create a [Bioproject](https://github.com/microb-r/tutorials/blob/master/BioProject_creation_NCBI.md) and [Biosample] (https://github.com/microb-r/tutorials/blob/master/Biosample_submission_NCBI.md) here) and release date. 
+3. Add BioProject number (previously create a [Bioproject](https://github.com/microb-r/tutorials/blob/master/BioProject_creation_NCBI.md) and [Biosample](https://github.com/microb-r/tutorials/blob/master/Biosample_submission_NCBI.md)) and release date. 
 
 <img width="1428" alt="Screen Shot 2019-08-26 at 10 32 55 PM" src="https://user-images.githubusercontent.com/48694025/63736600-a523be00-c851-11e9-91e7-b93b409dc6c6.png">
 
