@@ -1,6 +1,6 @@
 # Submit to Sequence Read Archive (SRA)
 
-The [SRA] (https://submit.ncbi.nlm.nih.gov/subs/sra/) accepts genetic data and the associated quality scores produced by next generation sequencing technologies.
+The [SRA](https://submit.ncbi.nlm.nih.gov/subs/sra/) accepts genetic data and the associated quality scores produced by next generation sequencing technologies.
 
 1. Click on **New Submission**
 
