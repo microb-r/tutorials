@@ -1,4 +1,4 @@
-# tutorials
+# NCBI submission tutorials
 
 To submit genomes (WGS or complete), TSA or SRA, follow the next steps: 
 
