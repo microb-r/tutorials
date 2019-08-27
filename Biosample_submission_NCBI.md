@@ -18,7 +18,7 @@ BioSamples can be created [here](https://submit.ncbi.nlm.nih.gov/subs/biosample/
   
   <img width="707" alt="Screen Shot 2019-08-11 at 11 04 43 PM" src="https://user-images.githubusercontent.com/48694025/63230074-f985c880-c1d5-11e9-8535-99784a352a35.png">
 
-   4.3 In **Attributes** section, fill in with corresponding information. Some issues with **Sample Name** can show up, confirm that the sample name in correct and **Continue** again.
+   4.3 In **Attributes** section, fill in with corresponding information. Some issues with **Sample Name** can show up, confirm that the sample name is correct and **Continue** again.
   
   <img width="714" alt="Screen Shot 2019-08-11 at 11 11 06 PM" src="https://user-images.githubusercontent.com/48694025/63230186-4e760e80-c1d7-11e9-90f0-cc90eb22f077.png">
 
