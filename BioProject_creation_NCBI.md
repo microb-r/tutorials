@@ -24,7 +24,7 @@ A BioProject is a collection of biological data related to a single initiative o
 
 <img width="1432" alt="Screen Shot 2019-08-26 at 9 39 34 PM" src="https://user-images.githubusercontent.com/48694025/63735896-57a65180-c84f-11e9-9d7a-910d8fdf3182.png">
 
-6. For now, omit information about BioSample. You will create one (or mamy) later and link them to this BioProject.
+6. For now, omit information about BioSample. You will create one (or many) later and link them to this BioProject.
 
 <img width="1432" alt="Screen Shot 2019-08-26 at 9 41 58 PM" src="https://user-images.githubusercontent.com/48694025/63735941-7c9ac480-c84f-11e9-92ac-95ed64a56fd4.png">
 
